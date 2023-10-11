@@ -1,4 +1,6 @@
-# Red_Squirrel_Diet_Study
+# Data Visualization with Python
+
+## Red Squirrel Study
 
 The basis of this study is to work with visualizations using either the Seaborn or Plotly libraries and to recreate a given scatterplot.
 
