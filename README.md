@@ -1,7 +1,7 @@
 # Data Visualization with Python
 
 ### Table of Contents:
-[Data Source](https://github.com/julyndav/Data_Visualization_w_Python/blob/main/squirrel_diet.csv)
+[Data Source](https://github.com/julyndav/Data_Visualization_w_Python/blob/main/squirrel_diet.csv)<br>
 [Jupyter Notebook](https://github.com/julyndav/Data_Visualization_w_Python/blob/main/Red%20Squirrel%20Diet%20Study.ipynb)
 
 
